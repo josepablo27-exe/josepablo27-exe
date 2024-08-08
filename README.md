@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I´m Jose Pablo Durán 👋
 
 <!--
 **josepablo27-exe/josepablo27-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,17 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <h2>Knowledge</h2>
-<p>- Programming Languages: Python, Java, C#, Javascript, PHP, PL/SQL</p>
+<p>• Programming Languages: Python, Java, C#, Javascript, PHP, PL/SQL</p>
 <br>
-<p>- Databases: MySQL, MongoDB, Oracle. SQL Server</p>
+<p>• Databases: MySQL, MongoDB, Oracle. SQL Server</p>
 <br>
-<p>- ETL Tools: Pentaho, Knime, Microsoft Integration Services</p>
+<p>• ETL Tools: Pentaho, Knime, Microsoft Integration Services</p>
 <br>
-<p>- IT Essentials </p>
+<p>• IT Essentials </p>
 <br>
-<p>- Scrum Fundamentals</p>
+<p>• Scrum Fundamentals</p>
 <br>
-<p>- Version Control: GitHub </p>
+<p>• Version Control: GitHub </p>
+<br>
+<h2>Projects</h2>
+<p>• Web projects using C# with a connection to SQL Server</p>
+<br>
+<p>• Development of a project using Python with a connection to MongoDB and Mongo Atlas</p>
+<br>
+<p>• Development of a seat reservation system for events in a Christian association</p>
+<br>
+<p>• Development and cloud installation of a SAAS for a client, using C# and SQL Server</p>
+<br>
+<p>• Update of a company's website called CDU using Webflow</p>
 <br>
 <h2>GitHub Stats</h2>
 
